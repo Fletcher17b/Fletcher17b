@@ -8,8 +8,7 @@ For future employers, here I have displayed some examples of my work deemed note
 ## My skills: 
 
 
-<div style="display: flex; align-items: center;">
-
+<div style="width: auto; display: flex; align-items: center;">
 <img align="left" alt="C" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
 <img align="left" alt="C++" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="C#" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -26,16 +25,9 @@ For future employers, here I have displayed some examples of my work deemed note
 <img align="left" alt="Bootstrap" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
 </div>
-<br>
 
 
-<br />
-
-
-
----
 
 
 
